@@ -1,21 +1,5 @@
-```text
-                           alangoodjob@Alans-MacBook-Pro-3.local 
-    ........:.......        ------------------------------------- 
-   ...-+####%%%#*-...       OS: macOS 15.1.1 24B91 arm64 
-  ..:+%%%@@@@%%%%%%:..      Host: MacBookPro18,3 
-  ..#%@%@@@@@@@@%@%#..      Kernel: 24.1.0 
-   .*@%##%%%%#*+**@@..      Uptime: 4 days, 21 hours, 23 mins 
-   .-%*++++++====+#+..      Packages: 136 (brew) 
-   ..#+*#**+=+++#++:..      Shell: zsh 5.9 
-   .=+++++++=++++=++..      Resolution: 1512x982 
-   .-++=====-=====+-..      DE: Aqua 
-   ..-+==-=+=+=-==-..       WM: yabai 
-    ..====+++++===..        Terminal: /dev/ttys022 
-    ...++==++==++#-...      CPU: Apple M1 Pro 
- ....:%%+++=+++*+@@#:.      GPU: Apple M1 Pro 
-....*@%*===++++=+*%#*...    Memory: 2973MiB / 16384MiB 
-+##%%%#=========+#%%#*-..
-%%%%%%%#==++++==+%@%%###*                           
-%%%%%%%%*======+%%%%%##%#                           
-%%%%%%%%%======+%%%%%##%#
-%%%%%%%%%#=====*%%##%#%%#
+<a href="https://github.com/AlanLiCodes/AlanLiCodes">
+  <picture>
+    <img alt="Alan Li's GitHub Profile README" src="/Users/alangoodjob/Desktop/README.png">
+  </picture>
+</a>
